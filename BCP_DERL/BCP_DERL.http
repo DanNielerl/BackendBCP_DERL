@@ -1,0 +1,6 @@
+@BCP_DERL_HostAddress = http://localhost:5005
+
+GET {{BCP_DERL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
